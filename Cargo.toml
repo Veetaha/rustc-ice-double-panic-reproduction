@@ -1,0 +1,7 @@
+[package]
+name = "rustc-ice-double-panic-reproduction"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+from_variants = "1.0.0"
